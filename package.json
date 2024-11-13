@@ -1,0 +1,19 @@
+{
+  "name": "get-diff-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defenz-research/get-diff-action.git"
+  },
+  "author": "defenz-research",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defenz-research/get-diff-action/issues"
+  },
+  "homepage": "https://github.com/defenz-research/get-diff-action#readme",
+  "description": ""
+}
